@@ -1,3 +1,7 @@
-public class Author extends Person{
+public class Author extends Person {	
+
+	private Book[] books;
+	private Genre[]  genres;
+
 	
 }

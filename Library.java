@@ -1,7 +1,11 @@
 public class Library{
 
-	private Book[] books;
 	private Librarian[] librarians;
+	private Book[] books;
+	private Furniture[] furnitures;
+	private Room[] rooms;
+	private openHour[] openHours;	
+	
 
 
 	public Book[] getBooks(){
